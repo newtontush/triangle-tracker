@@ -1,0 +1,14 @@
+body{
+    background:url(/home/newton/Documents/secondProject/images/math.jpg) no-repeat;
+    background-size: cover;
+}
+.box{
+    width: 450px;
+    background: rgba(0, 0, 0, 0);
+    padding:40px;
+    text-align: center;
+    margin:auto;
+    margin-top: 5%;
+    color:black;
+    font-family: sans-serif;
+}
