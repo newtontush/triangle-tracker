@@ -14,12 +14,6 @@ This is a simple website.It evaluates whether a triangle is equilateral ,scalene
 ## Support and contact details
 Incase of inquires or clarrifications on my website contact me on 0704998380
 my email address is:newtontush@gmail.com
-
-
-# portfolio
-
-### It is a website that's a brief description about me,8.2.2019 #### By Newton 
-
-### License
+###licenses
 public
 Copyright (c) 2019 **moringa school
